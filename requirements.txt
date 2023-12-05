@@ -12,4 +12,3 @@ geojson
 sphinx
 sphinx-rtd-theme
 seabourn
-```
