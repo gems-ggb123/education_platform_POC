@@ -11,4 +11,4 @@ plotly
 geojson
 sphinx
 sphinx-rtd-theme
-seabourn
+seaborn
