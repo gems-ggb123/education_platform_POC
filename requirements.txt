@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+folium
+scikit-learn
+matplotlib
+xgboost
+imbalanced-learn
+streamlit
+plotly
+geojson
+sphinx
+sphinx-rtd-theme
